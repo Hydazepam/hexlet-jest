@@ -1,0 +1,4 @@
+#Makefile
+
+jest:
+	npx jest
